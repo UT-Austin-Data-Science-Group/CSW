@@ -79,5 +79,8 @@ Please use trainmaxsw.py, trainprw.py with similar arguments. The additional arg
 * --s_lr : learning rate for the max vector (subspace) 
 * --s_max_iter : number of updates for the max vector (subspace)
 
+### Pretrained models for SW, CSW-b, CSW-s, CSW-d on CelebA
+https://drive.google.com/file/d/1RILLG5ob8LQ4lMODYBAcd5R8ExcurBfm/view?usp=share_link
+
 ## Acknowledgment
 The structure of this repo is largely based on [sngan.pytorch](https://github.com/GongXinyuu/sngan.pytorch).
